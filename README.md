@@ -19,6 +19,11 @@ This project focuses on **AI-assisted parsing**, **robust backend design**, and 
 - Backend tested using **Postman** and **curl**
 - API responses demonstrated for expense creation, listing, and deletion
 
+## Demo
+
+Watch the screen recording here:  
+https://screenrec.com/share/Gz6br5hdtD
+
 ---
 
 ## 🛠️ Tech Stack
